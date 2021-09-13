@@ -1,0 +1,7 @@
+C:\Users\jiracheta\Downloads\Superliga\Superliga\bin\Debug\Superliga.exe.config
+C:\Users\jiracheta\Downloads\Superliga\Superliga\bin\Debug\Superliga.exe
+C:\Users\jiracheta\Downloads\Superliga\Superliga\bin\Debug\Superliga.pdb
+C:\Users\jiracheta\Downloads\Superliga\Superliga\obj\Debug\Superliga.csprojAssemblyReference.cache
+C:\Users\jiracheta\Downloads\Superliga\Superliga\obj\Debug\Superliga.csproj.CoreCompileInputs.cache
+C:\Users\jiracheta\Downloads\Superliga\Superliga\obj\Debug\Superliga.exe
+C:\Users\jiracheta\Downloads\Superliga\Superliga\obj\Debug\Superliga.pdb
